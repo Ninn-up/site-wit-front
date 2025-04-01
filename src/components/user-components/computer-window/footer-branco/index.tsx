@@ -10,7 +10,7 @@ export default function FooterBranco() {
     const emailLink = "";
     return (
         <Container>
-            <h2>WOMAN IN TECH - ICMC/USP 2024</h2>
+            <h2>WIT - ICMC/USP 2025</h2>
             <div className = "social-icons">
                 <li><a href={emailLink}><img src={IconEmail} alt="Logo e-mail" /></a></li>
                 <li><a href=""><img src={IconInsta} alt="Logo Instagram" /></a></li>

@@ -1,4 +1,4 @@
-# SITE WOMAN IN TECH FRONT-END
+# SITE WIT FRONT-END
 
 Sejam bem vindas 💜. Área dedicada para explicação de como vamos desenvolver esse projeto. Irei separando em sections conforme for sendo necessário.
 

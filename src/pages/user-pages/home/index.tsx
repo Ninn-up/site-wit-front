@@ -35,7 +35,7 @@ const Home: React.FC = () => {
                   <HeaderCellPhone/>
               </HeaderContainer>
           )}
-          <img className='banner-home' src={BannerImage} alt="Banner do Woman in Tech"/>
+          <img className='banner-home' src={BannerImage} alt="Banner do WIT"/>
           <h1 className='selective-title'>Ficou interessada?</h1>
           <p className='selective-text'>Então, não perca a chance de se inscrever no nosso processo seletivo! 
             É fácil, basta clicar em "PROCESSO SELETIVO" no topo da página e você será direcionado para nosso 

@@ -30,7 +30,7 @@ const HamburgerMenuBranco: React.FC = () => {
             <button onClick={toggleMenu}>
                 <img className="btn-menu" src={MenuImage}/>
             </button>
-            <a href="/"><h1>W<span>i</span>T</h1></a>
+            <a href="/"><h1>WIT</h1></a>
         </div>
         <div className="drop-down">
             {isOpen && (

@@ -9,7 +9,7 @@ export default function Footer() {
             <div className="footer">
             <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css"></link>
                 <div className="title">
-                    <h2>WOMAN IN TECH - ICMC/USP 2024</h2>
+                    <h2>WIT - ICMC/USP 2024</h2>
                 </div>
                 <div className = "social-icons">
                     <li><a href={emailLink}><i className="bi bi-envelope-fill"></i></a></li>

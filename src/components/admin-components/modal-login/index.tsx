@@ -77,7 +77,7 @@ export default function ModalLogin() {
               Log In{" "}
             </button>
           </form>
-          <p className="modal-p">WOMAN IN TECH - ICMC/USP 2025</p>
+          <p className="modal-p">WIT - ICMC/USP 2025</p>
         </div>
       </div>
     </Container>
